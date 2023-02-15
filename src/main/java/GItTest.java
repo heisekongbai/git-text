@@ -7,5 +7,6 @@ public class GItTest {
         System.out.println("master hello");
         System.out.println("hot-fix hello");
         System.out.println("push hello");
+        System.out.println("pull hello");
     }
 }
